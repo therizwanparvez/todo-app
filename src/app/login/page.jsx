@@ -1,4 +1,4 @@
-
+"use client";
 import Link from "next/link";
 import React from "react";
 
@@ -19,9 +19,9 @@ const Login = () => {
   );
 };
 
-export const metadata = {
-  title: "Login",
-  description: "This is Login Page",
-};
+// export const metadata = {
+//   title: "Login",
+//   description: "This is Login Page",
+// };
 
 export default Login;

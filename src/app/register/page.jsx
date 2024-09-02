@@ -1,4 +1,4 @@
-
+"use client";
 import Link from "next/link";
 import React from "react";
 
@@ -20,9 +20,9 @@ const Register = () => {
   );
 };
 
-export const metadata = {
-  title: "Register",
-  description: "This is Register Page",
-};
+// export const metadata = {
+//   title: "Register",
+//   description: "This is Register Page",
+// };
 
 export default Register;
